@@ -1,7 +1,7 @@
 
 // set the scene size
 var WIDTH = window.innerWidth,
-HEIGHT = window.innerHeight;
+HEIGHT = window.innerHeight - 128;
 
 // set some camera attributes
 var VIEW_ANGLE = 45,
