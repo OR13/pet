@@ -1,0 +1,21 @@
+body, html, canvas, div {
+    margin: 0;
+    padding: 0;
+    background: #0F1720;
+}
+label {
+    display: block;
+}
+
+#world_hash{
+    color: #38ddb3;
+    position: relative;
+    font-size: 1.5em;
+    font-family: monospace;
+    overflow-wrap: break-word;
+    text-align: center;
+    padding: 16px;
+    position: relative;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
